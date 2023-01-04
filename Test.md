@@ -9,3 +9,10 @@ IMAGE:
 Welcome to Git-Hub
 
 -Markdown branch
+
+C# Code Example
+---
+Public void Display()
+{
+Console.WriteLine("Hello");
+}
